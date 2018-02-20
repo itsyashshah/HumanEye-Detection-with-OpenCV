@@ -14,7 +14,7 @@ Things you must need.
 
 ## Installation
 
-Linux/Mac:
+#### Linux/Mac:
 
 ```sh
 pip3 install numpy or apt-get install python3-numpy
@@ -31,7 +31,7 @@ apt-get install python3-pip.
 ```
 
 
-# Windows:
+#### Windows:
 
 ```sh
 pip install numpy
