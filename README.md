@@ -48,7 +48,7 @@ pip install matplotlib
 ## Release History
 
 * 0.0.1
-    * the first release with detecting human eye
+    * the first release of detecting human eye
 
 ## Meta
 
