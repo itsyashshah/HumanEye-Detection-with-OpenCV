@@ -31,7 +31,7 @@ apt-get install python3-pip.
 ```
 
 
-Windows:
+# Windows:
 
 ```sh
 pip install numpy
