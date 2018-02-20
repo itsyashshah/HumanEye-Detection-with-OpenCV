@@ -42,7 +42,7 @@ pip install matplotlib
 
 ## Usage example
 
-![](sample.png)
+![](img.png)
 
 
 ## Release History
