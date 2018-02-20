@@ -4,7 +4,7 @@
 OpenCV is a open source library for computer vision, it is used for detecting the objects and has a strong implementations for real time applications. we will be using here python, to detect the human eye in real time operations.
 
 
-### Prerequisites
+## Prerequisites
 
 Things you must need.
 - Python 3.1
